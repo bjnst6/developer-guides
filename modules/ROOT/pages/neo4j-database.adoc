@@ -53,7 +53,7 @@ link:/developer/cypher/replanning/[Developer Guide: Cypher Runtime and Replannin
 === Data access controls
 
 Securing data is important and complex, especially when dealing with sensitive data and regulations surrounding it.
-There are many ways to of securing the data - access, user roles, protected environments, system architecture, and more.
+There are many ways of securing data - access, user roles, protected environments, system architecture, and more.
 Neo4j provides these capabilities and regularly improves or adds to them.
 
 https://youtu.be/jQIqXVVYPE0[Video: Schema-based security^] +
